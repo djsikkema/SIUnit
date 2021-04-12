@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition table="x_27156_muse_item">on_display=true^EQ<item endquery="false" field="on_display" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description>Roles: curator, Condition: On display, Script: In museum Curators group</description>
+        <name>x_27156_muse_item</name>
+        <operation display_value="write">write</operation>
+        <script><![CDATA[(function executeRule(current) {
+	var user = gs.getUser();
+	
+	// Get the id of the museum's Curators group.
+	var group_name = current.museum.getDisplayValue() + ' Curators';
+	var group_gr = new GlideRecord('sys_group');
+	group_gr.addQuery('name', group_name);
+	group_gr.query();
+	if (!group_gr._next()) {
+		return false;
+	}
+	var group_id = group_gr.getUniqueValue();
+
+	// Is this user a member of the this item's museum's Curator group?
+	if (!user.isMemberOf(group_id)) {
+		return false;
+	}
+
+	return true;
+})(current);]]></script>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-06 12:47:38</sys_created_on>
+        <sys_id>eb66dcee2f1320108db4206df699b668</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_27156_muse_item</sys_name>
+        <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+        <sys_update_name>sys_security_acl_eb66dcee2f1320108db4206df699b668</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-12 13:07:53</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
