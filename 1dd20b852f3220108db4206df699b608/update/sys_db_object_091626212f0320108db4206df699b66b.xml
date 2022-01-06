@@ -17,6 +17,7 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
         <super_class display_value="Item" name="x_27156_muse_item">c186bfc02f0320108db4206df699b6bb</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>

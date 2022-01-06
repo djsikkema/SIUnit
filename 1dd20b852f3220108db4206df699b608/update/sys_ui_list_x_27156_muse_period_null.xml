@@ -3,32 +3,92 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_27156_muse_period" element="NULL" name="x_27156_muse_period" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">34be86cf2ffa20108db4206df699b6e2</list_id>
+            <list_id display_value="x_27156_muse_period" element="NULL" name="x_27156_muse_period" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">742a65db2f2320108db4206df699b634</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-03-14 14:18:40</sys_created_on>
-            <sys_id>3cbe86cf2ffa20108db4206df699b6e3</sys_id>
+            <sys_created_on>2021-04-21 13:04:30</sys_created_on>
+            <sys_id>bc2a65db2f2320108db4206df699b634</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-03-14 14:18:40</sys_updated_on>
+            <sys_updated_on>2021-04-21 13:04:30</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>type</element>
-            <list_id display_value="x_27156_muse_period" element="NULL" name="x_27156_muse_period" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">34be86cf2ffa20108db4206df699b6e2</list_id>
+            <list_id display_value="x_27156_muse_period" element="NULL" name="x_27156_muse_period" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">742a65db2f2320108db4206df699b634</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-03-14 14:18:40</sys_created_on>
-            <sys_id>34be86cf2ffa20108db4206df699b6e4</sys_id>
+            <sys_created_on>2021-04-21 13:04:30</sys_created_on>
+            <sys_id>302a65db2f2320108db4206df699b635</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-03-14 14:18:40</sys_updated_on>
+            <sys_updated_on>2021-04-21 13:04:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>start</element>
+            <list_id display_value="x_27156_muse_period" element="NULL" name="x_27156_muse_period" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">742a65db2f2320108db4206df699b634</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:04:30</sys_created_on>
+            <sys_id>b02a65db2f2320108db4206df699b635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:04:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>end</element>
+            <list_id display_value="x_27156_muse_period" element="NULL" name="x_27156_muse_period" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">742a65db2f2320108db4206df699b634</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:04:30</sys_created_on>
+            <sys_id>342a65db2f2320108db4206df699b635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:04:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>length</element>
+            <list_id display_value="x_27156_muse_period" element="NULL" name="x_27156_muse_period" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">742a65db2f2320108db4206df699b634</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:04:30</sys_created_on>
+            <sys_id>b42a65db2f2320108db4206df699b635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:04:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="x_27156_muse_period" element="NULL" name="x_27156_muse_period" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">742a65db2f2320108db4206df699b634</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-21 13:04:30</sys_created_on>
+            <sys_id>382a65db2f2320108db4206df699b635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-21 13:04:30</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -42,10 +102,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2021-03-14 14:18:40</sys_created_on>
+            <sys_created_on>2021-04-21 13:04:30</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>34be86cf2ffa20108db4206df699b6e2</sys_id>
+            <sys_id>742a65db2f2320108db4206df699b634</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_27156_muse_period</sys_name>
             <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
@@ -53,7 +113,7 @@
             <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
             <sys_update_name>sys_ui_list_x_27156_muse_period_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-03-14 14:18:40</sys_updated_on>
+            <sys_updated_on>2021-04-21 13:04:30</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

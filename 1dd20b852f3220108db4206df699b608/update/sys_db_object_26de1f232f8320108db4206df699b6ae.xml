@@ -17,6 +17,7 @@
         <number_ref display_value="MU">a4e227ab2fc320108db4206df699b635</number_ref>
         <provider_class/>
         <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
         <super_class display_value="User" name="sys_user">3520aa027d213300aadb74564bf59f8c</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
