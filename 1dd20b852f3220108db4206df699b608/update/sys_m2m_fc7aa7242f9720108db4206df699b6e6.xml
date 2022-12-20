@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_m2m">
+    <sys_m2m action="INSERT_OR_UPDATE">
+        <from_table>x_27156_muse_member</from_table>
+        <m2m_from_field>member</m2m_from_field>
+        <m2m_from_label>Sponsored items</m2m_from_label>
+        <m2m_table>x_27156_muse_sponsorship</m2m_table>
+        <m2m_to_field>item</m2m_to_field>
+        <m2m_to_label>Sponsors</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-31 23:17:22</sys_created_on>
+        <sys_id>fc7aa7242f9720108db4206df699b6e6</sys_id>
+        <sys_name>x_27156_muse_sponsorship</sys_name>
+        <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+        <sys_update_name>sys_m2m_fc7aa7242f9720108db4206df699b6e6</sys_update_name>
+        <to_table>x_27156_muse_item</to_table>
+    </sys_m2m>
+</record_update>

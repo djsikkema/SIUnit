@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_27156_muse_member" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Member - Default view" name="x_27156_muse_member" related_list="NULL" sys_domain="global" view="Default view">1887a5a52f2320108db4206df699b606</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_27156_muse_sponsorship.member</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-16 02:23:37</sys_created_on>
+            <sys_id>9887ada52f2320108db4206df699b630</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-16 02:23:37</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Member - Default view</calculated_name>
+            <filter/>
+            <name>x_27156_muse_member</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-16 02:23:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1887a5a52f2320108db4206df699b606</sys_id>
+            <sys_name>Member - Default view</sys_name>
+            <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+            <sys_update_name>sys_ui_related_x_27156_muse_member_null</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

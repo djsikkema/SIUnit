@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0c6bb0882f0320108db4206df699b6eb" label="Person" max_length="40" name="x_27156_muse_person" type="collection">
+        <element label="Age" max_length="40" name="age" read_only="true" type="integer" virtual="true"/>
+        <element label="Born" max_length="40" name="born" type="glide_date"/>
+        <element label="Died" max_length="40" name="died" type="glide_date"/>
+        <element display="true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

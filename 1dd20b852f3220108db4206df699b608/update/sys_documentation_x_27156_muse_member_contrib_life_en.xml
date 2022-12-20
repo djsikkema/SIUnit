@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="contrib_life" label="Contributions (Lifetime)" language="en" table="x_27156_muse_member">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>contrib_life</element>
+            <help/>
+            <hint/>
+            <label>Contributions (Lifetime)</label>
+            <language>en</language>
+            <name>x_27156_muse_member</name>
+            <plural>Contributions (Lifetime)</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-29 12:18:24</sys_created_on>
+            <sys_name>Contributions (Lifetime)</sys_name>
+            <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+            <sys_update_name>sys_documentation_x_27156_muse_member_contrib_life_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-17 12:00:57</sys_created_on>
+        <sys_id>60fb49842f4320108db4206df699b6fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_27156_muse_artist.x_27156_muse.admin</sys_name>
+        <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+        <sys_security_acl display_value="x_27156_muse_artist">e0fb49842f4320108db4206df699b6fa</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_60fb49842f4320108db4206df699b6fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-17 12:00:57</sys_updated_on>
+        <sys_user_role display_value="x_27156_muse.admin" name="x_27156_muse.admin">c0f165762f7220108db4206df699b674</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Muse">1dd20b852f3220108db4206df699b608</application>
+        <file_path/>
+        <instance_id>d8d3ef6bdb207300f492c59705961985</instance_id>
+        <instance_name>dev79516</instance_name>
+        <name>sys_security_acl_role_60fb49842f4320108db4206df699b6fd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-17 12:00:57</sys_created_on><sys_id>60fb49842f4320108db4206df699b6fd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_27156_muse_artist.x_27156_muse.admin</sys_name><sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package><sys_policy/><sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope><sys_security_acl display_value="x_27156_muse_artist">e0fb49842f4320108db4206df699b6fa</sys_security_acl><sys_update_name>sys_security_acl_role_60fb49842f4320108db4206df699b6fd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-17 12:00:57</sys_updated_on><sys_user_role display_value="x_27156_muse.admin" name="x_27156_muse.admin">c0f165762f7220108db4206df699b674</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-2083325100</payload_hash>
+        <record_name>x_27156_muse_artist.x_27156_muse.admin</record_name>
+        <reverted_from/>
+        <source>11d20b852f3220108db4206df699b60b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-17 12:00:57</sys_created_on>
+        <sys_id>28fb49842f4320108db4206df699b6ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178400f71b90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-17 12:00:57</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>60fb498471432010d1fb08861b9651ff</update_guid>
+        <update_guid_history>60fb498471432010d1fb08861b9651ff:-2083325100</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_27156_muse_artist.x_27156_muse.admin">6856ef3a2f5720108db4206df699b693</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-07 22:34:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>14a7b1dedc844ef585d4e804eaa2d351</sys_id>
+        <sys_metadata>60fb49842f4320108db4206df699b6fd</sys_metadata>
+        <sys_name>x_27156_muse_artist.x_27156_muse.admin</sys_name>
+        <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+        <sys_parent display_value="x_27156_muse_person">e0fb49842f4320108db4206df699b6fa</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+        <sys_scope_delete display_value="">339860192c7940e4842b3cd19aea2119</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_60fb49842f4320108db4206df699b6fd</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_60fb49842f4320108db4206df699b6fd">28fb49842f4320108db4206df699b6ff</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

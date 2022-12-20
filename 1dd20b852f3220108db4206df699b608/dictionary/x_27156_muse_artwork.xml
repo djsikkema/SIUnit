@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="091626212f0320108db4206df699b66b" extends="x_27156_muse_item" label="Artwork" max_length="40" name="x_27156_muse_artwork" type="collection">
+        <element label="Artist" max_length="32" name="artist" reference="x_27156_muse_artist" type="reference"/>
+        <element label="Created" max_length="40" name="created" type="integer"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Ceramics" value="ceramics"/>
+                <element inactive_on_update="false" label="Drawing" value="drawing"/>
+                <element inactive_on_update="false" label="Painting" value="painting"/>
+                <element inactive_on_update="false" label="Sculpture" value="sculpture"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="artist"/>
+        </index>
+    </element>
+</database>

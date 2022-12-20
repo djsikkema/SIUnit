@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Muse">c6ce55362f7220108db4206df699b647</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Sponsorships</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_27156_muse_sponsorship</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_27156_muse.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-22 12:29:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>17814b252f4320108db4206df699b698</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Sponsorships</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+        <sys_update_name>sys_app_module_17814b252f4320108db4206df699b698</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-22 12:32:30</sys_updated_on>
+        <timeline_page/>
+        <title>Sponsorships</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Muse">1dd20b852f3220108db4206df699b608</application>
+        <file_path/>
+        <instance_id>d8d3ef6bdb207300f492c59705961985</instance_id>
+        <instance_name>dev79516</instance_name>
+        <name>sys_app_module_17814b252f4320108db4206df699b698</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Muse">c6ce55362f7220108db4206df699b647</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Sponsorships</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_27156_muse_sponsorship</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_27156_muse.admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-22 12:29:56</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>17814b252f4320108db4206df699b698</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Sponsorships</sys_name><sys_overrides/><sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package><sys_policy/><sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope><sys_update_name>sys_app_module_17814b252f4320108db4206df699b698</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-22 12:32:30</sys_updated_on><timeline_page/><title>Sponsorships</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>32738804</payload_hash>
+        <record_name>Sponsorships</record_name>
+        <reverted_from/>
+        <source>11d20b852f3220108db4206df699b60b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-22 12:32:31</sys_created_on>
+        <sys_id>f71303652f4320108db4206df699b6f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17859ec232e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-22 12:32:31</sys_updated_on>
+        <type>Module</type>
+        <update_guid>73130365bf432010d98f39ccb61cc6f4</update_guid>
+        <update_guid_history>73130365bf432010d98f39ccb61cc6f4:32738804,168207a16043201023ba56a77e7888d8:1514495163</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Sponsorships">ad2fce6b2f0320108db4206df699b69c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-28 13:53:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0b3e754ed17145b28136c824cc95be64</sys_id>
+        <sys_metadata>17814b252f4320108db4206df699b698</sys_metadata>
+        <sys_name>Sponsorships</sys_name>
+        <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+        <sys_scope_delete display_value="">339860192c7940e4842b3cd19aea2119</sys_scope_delete>
+        <sys_update_name>sys_app_module_17814b252f4320108db4206df699b698</sys_update_name>
+        <sys_update_version display_value="sys_app_module_17814b252f4320108db4206df699b698">f71303652f4320108db4206df699b6f4</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

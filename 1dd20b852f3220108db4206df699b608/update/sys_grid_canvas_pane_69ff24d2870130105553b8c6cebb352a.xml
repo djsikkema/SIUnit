@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA System Administratio - New Tab">59ff6492870130105553b8c6cebb35bc</grid_canvas>
+        <height>4</height>
+        <portal_widget display_value="Created 2021-07-01 15:50:35">adff24d2870130105553b8c6cebb351b</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-01 19:50:35</sys_created_on>
+        <sys_id>69ff24d2870130105553b8c6cebb352a</sys_id>
+        <sys_name>59ff6492870130105553b8c6cebb35bc</sys_name>
+        <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_69ff24d2870130105553b8c6cebb352a</sys_update_name>
+        <width>4</width>
+    </sys_grid_canvas_pane>
+</record_update>

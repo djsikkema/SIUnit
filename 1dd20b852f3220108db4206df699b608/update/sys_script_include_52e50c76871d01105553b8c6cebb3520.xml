@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_27156_muse.Log</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>Log</name>
+        <script><![CDATA[var Log = Class.create();
+Log.prototype = {
+    initialize: function() {
+    },
+
+    type: 'Log'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-30 12:30:48</sys_created_on>
+        <sys_id>52e50c76871d01105553b8c6cebb3520</sys_id>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+        <sys_update_name>sys_script_include_52e50c76871d01105553b8c6cebb3520</sys_update_name>
+    </sys_script_include>
+</record_update>
