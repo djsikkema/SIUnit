@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="666f6fc72ffe20108db4206df699b6a3" label="Museum" max_length="40" name="x_27156_muse_museum" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" reference_cascade_rule="restrict" type="reference"/>
+        <element display="true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <index name="index">
+            <element name="location"/>
+        </index>
+    </element>
+</database>

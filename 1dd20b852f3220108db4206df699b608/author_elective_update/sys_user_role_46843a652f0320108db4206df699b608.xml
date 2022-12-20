@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_27156_muse.patron_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>patron_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-22 11:28:46</sys_created_on>
+        <sys_id>46843a652f0320108db4206df699b608</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_27156_muse.patron_user</sys_name>
+        <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+        <sys_update_name>sys_user_role_46843a652f0320108db4206df699b608</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-22 11:28:46</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Muse">1dd20b852f3220108db4206df699b608</application>
+        <file_path/>
+        <instance_id>d8d3ef6bdb207300f492c59705961985</instance_id>
+        <instance_name>dev79516</instance_name>
+        <name>sys_user_role_46843a652f0320108db4206df699b608</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_27156_muse.patron_user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>patron_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-22 11:28:46</sys_created_on><sys_id>46843a652f0320108db4206df699b608</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_27156_muse.patron_user</sys_name><sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package><sys_policy/><sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope><sys_update_name>sys_user_role_46843a652f0320108db4206df699b608</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-22 11:28:46</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-2095295059</payload_hash>
+        <record_name>x_27156_muse.patron_user</record_name>
+        <reverted_from/>
+        <source>11d20b852f3220108db4206df699b60b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-22 11:28:46</sys_created_on>
+        <sys_id>1e847e2d2f0320108db4206df699b6de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17859b1c8870000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-22 11:28:46</sys_updated_on>
+        <type>Role</type>
+        <update_guid>56847e2d230320106d2d6514f17350de</update_guid>
+        <update_guid_history>56847e2d230320106d2d6514f17350de:-2095295059</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_27156_muse.patron_user">8cf98fc62f1320108db4206df699b6a3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-05 12:34:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>028c6a4bbab143b890c9a3c0aae8e899</sys_id>
+        <sys_metadata>46843a652f0320108db4206df699b608</sys_metadata>
+        <sys_name>x_27156_muse.patron_user</sys_name>
+        <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+        <sys_scope_delete display_value="">339860192c7940e4842b3cd19aea2119</sys_scope_delete>
+        <sys_update_name>sys_user_role_46843a652f0320108db4206df699b608</sys_update_name>
+        <sys_update_version display_value="sys_user_role_46843a652f0320108db4206df699b608">1e847e2d2f0320108db4206df699b6de</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

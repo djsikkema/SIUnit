@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_m2m">
+    <sys_m2m action="DELETE">
+        <from_table>x_27156_muse_member</from_table>
+        <m2m_from_field>member</m2m_from_field>
+        <m2m_from_label>Items</m2m_from_label>
+        <m2m_table>x_27156_muse_sponsorship</m2m_table>
+        <m2m_to_field>item</m2m_to_field>
+        <m2m_to_label>Members</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-31 11:34:19</sys_created_on>
+        <sys_id>fa6741e42f1320108db4206df699b61e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_27156_muse_sponsorship</sys_name>
+        <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+        <sys_update_name>sys_m2m_fa6741e42f1320108db4206df699b61e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 11:34:19</sys_updated_on>
+        <to_table>x_27156_muse_item</to_table>
+    </sys_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Muse">1dd20b852f3220108db4206df699b608</application>
+        <file_path/>
+        <instance_id>d8d3ef6bdb207300f492c59705961985</instance_id>
+        <instance_name>dev79516</instance_name>
+        <name>sys_m2m_fa6741e42f1320108db4206df699b61e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_m2m"><sys_m2m action="INSERT_OR_UPDATE"><from_table>x_27156_muse_member</from_table><m2m_from_field>member</m2m_from_field><m2m_from_label>Items</m2m_from_label><m2m_table>x_27156_muse_sponsorship</m2m_table><m2m_to_field>item</m2m_to_field><m2m_to_label>Members</m2m_to_label><sys_class_name>sys_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-31 11:34:19</sys_created_on><sys_id>fa6741e42f1320108db4206df699b61e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_27156_muse_sponsorship</sys_name><sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package><sys_policy/><sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope><sys_update_name>sys_m2m_fa6741e42f1320108db4206df699b61e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-31 11:34:19</sys_updated_on><to_table>x_27156_muse_item</to_table></sys_m2m></record_update>]]></payload>
+        <payload_hash>-573206695</payload_hash>
+        <record_name>x_27156_muse_sponsorship</record_name>
+        <reverted_from/>
+        <source>11d20b852f3220108db4206df699b60b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-31 11:34:21</sys_created_on>
+        <sys_id>df1ccd682f1320108db4206df699b661</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17888101f6c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-31 11:34:21</sys_updated_on>
+        <type>Many to Many Definition</type>
+        <update_guid>1b1ccd6886132010feff26f1e969d761</update_guid>
+        <update_guid_history>1b1ccd6886132010feff26f1e969d761:-573206695</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-31 23:00:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_m2m">sys_m2m</sys_db_object>
+        <sys_id>5159170fa404420eada0997a20d606c1</sys_id>
+        <sys_metadata>fa6741e42f1320108db4206df699b61e</sys_metadata>
+        <sys_name>x_27156_muse_sponsorship</sys_name>
+        <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+        <sys_scope_delete display_value="">339860192c7940e4842b3cd19aea2119</sys_scope_delete>
+        <sys_update_name>sys_m2m_fa6741e42f1320108db4206df699b61e</sys_update_name>
+        <sys_update_version display_value="sys_m2m_fa6741e42f1320108db4206df699b61e">df1ccd682f1320108db4206df699b661</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

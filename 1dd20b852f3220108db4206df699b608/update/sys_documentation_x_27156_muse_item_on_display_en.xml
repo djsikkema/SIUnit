@@ -11,15 +11,11 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-04-06 12:41:37</sys_created_on>
-            <sys_id>6f0550ee2f1320108db4206df699b632</sys_id>
-            <sys_mod_count>0</sys_mod_count>
             <sys_name>On display?</sys_name>
             <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
             <sys_policy/>
             <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
             <sys_update_name>sys_documentation_x_27156_muse_item_on_display_en</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-04-06 12:41:37</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

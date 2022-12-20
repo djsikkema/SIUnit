@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="DELETE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>false</action_insert>
+        <action_query>true</action_query>
+        <action_update>false</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_27156_muse_member</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Business rule 2</name>
+        <order>110</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+	current.addActiveQuery();
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-05 12:14:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bcf4a5fb877b20105553b8c6cebb35e0</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Business rule 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+        <sys_update_name>sys_script_bcf4a5fb877b20105553b8c6cebb35e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-13 22:09:44</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="DELETE" query="documentkey=bcf4a5fb877b20105553b8c6cebb35e0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Muse">1dd20b852f3220108db4206df699b608</application>
+        <file_path/>
+        <instance_id>d8d3ef6bdb207300f492c59705961985</instance_id>
+        <instance_name>dev79516</instance_name>
+        <name>sys_script_bcf4a5fb877b20105553b8c6cebb35e0</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;true&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;x_27156_muse_member&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Business rule 2&lt;/name&gt;&lt;order&gt;110&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+	current.addActiveQuery();
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-05-05 12:14:28&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;bcf4a5fb877b20105553b8c6cebb35e0&lt;/sys_id&gt;&lt;sys_mod_count&gt;12&lt;/sys_mod_count&gt;&lt;sys_name&gt;Business rule 2&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Muse" source="x_27156_muse"&gt;1dd20b852f3220108db4206df699b608&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Muse"&gt;1dd20b852f3220108db4206df699b608&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_bcf4a5fb877b20105553b8c6cebb35e0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-05-13 22:09:44&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=bcf4a5fb877b20105553b8c6cebb35e0"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>250760890</payload_hash>
+        <record_name>Business rule 2</record_name>
+        <reverted_from/>
+        <source>11d20b852f3220108db4206df699b60b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-13 22:09:44</sys_created_on>
+        <sys_id>9ee9f4a6874430105553b8c6cebb353f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17967c74c070000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-13 22:09:44</sys_updated_on>
+        <type>Business Rule</type>
+        <update_guid>96e9f4a639443010df8668af700b643f</update_guid>
+        <update_guid_history>96e9f4a639443010df8668af700b643f:250760890,59d9f0a6f64430107306abd8ae2535e9:-1184418371,49c974a61b4430100472566219572ad4:1185482991,b4b934a6e04430108274e8a2a930ff72:-1475552177,54a9f0a69f443010330a46c607e8c6ee:250760890,9099fc663d4430102cdde6fb6379255b:233188169,7c49fc6677443010cdcc38e39bb2a664:2053641234,b029b866d8443010b5f99120169d5fb8:245173239,89d8b8666f443010ae5247effc92ef6a:-1398865744,f09965bf307b20106609a1a1c31959a7:1863816856,cf5961bf207b2010676408344cdbc77e:-1847550357,e138a97f187b2010443a091cac2ad03e:-811526852,fcf4a5fb777b20102db612a4741adee3:-537080578</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-14 04:11:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_script">sys_script</sys_db_object>
+        <sys_id>046701ade4254cd092b6632d8959cb44</sys_id>
+        <sys_metadata>bcf4a5fb877b20105553b8c6cebb35e0</sys_metadata>
+        <sys_name>Business rule 2</sys_name>
+        <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+        <sys_parent display_value="Member">26de1f232f8320108db4206df699b6ae</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+        <sys_scope_delete display_value="">339860192c7940e4842b3cd19aea2119</sys_scope_delete>
+        <sys_update_name>sys_script_bcf4a5fb877b20105553b8c6cebb35e0</sys_update_name>
+        <sys_update_version display_value="sys_script_bcf4a5fb877b20105553b8c6cebb35e0">9ee9f4a6874430105553b8c6cebb353f</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-14 21:38:24</sys_created_on>
+        <sys_id>8253738b2ffe20108db4206df699b64b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_27156_muse_museum.x_27156_muse.museum_user</sys_name>
+        <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+        <sys_security_acl display_value="x_27156_muse_museum">0653738b2ffe20108db4206df699b648</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8253738b2ffe20108db4206df699b64b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-14 21:38:24</sys_updated_on>
+        <sys_user_role display_value="x_27156_muse.museum_user" name="x_27156_muse.museum_user">8653ff472ffe20108db4206df699b658</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Muse">1dd20b852f3220108db4206df699b608</application>
+        <file_path/>
+        <instance_id>d8d3ef6bdb207300f492c59705961985</instance_id>
+        <instance_name>dev79516</instance_name>
+        <name>sys_security_acl_role_8253738b2ffe20108db4206df699b64b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-14 21:38:24</sys_created_on><sys_id>8253738b2ffe20108db4206df699b64b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_27156_muse_museum.x_27156_muse.museum_user</sys_name><sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package><sys_policy/><sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope><sys_security_acl display_value="x_27156_muse_museum">0653738b2ffe20108db4206df699b648</sys_security_acl><sys_update_name>sys_security_acl_role_8253738b2ffe20108db4206df699b64b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-14 21:38:24</sys_updated_on><sys_user_role display_value="x_27156_muse.museum_user" name="x_27156_muse.museum_user">8653ff472ffe20108db4206df699b658</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>90167715</payload_hash>
+        <record_name>x_27156_muse_museum.x_27156_muse.museum_user</record_name>
+        <reverted_from/>
+        <source>11d20b852f3220108db4206df699b60b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-14 21:38:24</sys_created_on>
+        <sys_id>4a53738b2ffe20108db4206df699b64d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17832ad093a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-14 21:38:24</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>8253738b05fe20100d51bf58147c9b4d</update_guid>
+        <update_guid_history>8253738b05fe20100d51bf58147c9b4d:90167715</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_27156_muse_museum.x_27156_muse.museum_user">68e90fc62f1320108db4206df699b6ee</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-05 12:34:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>5c30639e984c431b9cfc0a3ebc8bca59</sys_id>
+        <sys_metadata>8253738b2ffe20108db4206df699b64b</sys_metadata>
+        <sys_name>x_27156_muse_museum.x_27156_muse.museum_user</sys_name>
+        <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
+        <sys_parent display_value="">0653738b2ffe20108db4206df699b648</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
+        <sys_scope_delete display_value="">339860192c7940e4842b3cd19aea2119</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_8253738b2ffe20108db4206df699b64b</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_8253738b2ffe20108db4206df699b64b">4a53738b2ffe20108db4206df699b64d</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

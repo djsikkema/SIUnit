@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="26de1f232f8320108db4206df699b6ae" extends="sys_user" label="Member" max_length="40" name="x_27156_muse_member" type="collection">
+        <element label="Contributions (Lifetime)" max_length="20" name="contrib_life" type="currency"/>
+        <element label="Contributions (YTD)" max_length="20" name="contrib_ytd" type="currency"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Basic" value="basic"/>
+                <element inactive_on_update="false" label="Extended" value="extended"/>
+                <element inactive_on_update="false" label="Patron" value="patron"/>
+                <element inactive_on_update="false" label="Sponsor" value="sponsor"/>
+            </choice>
+        </element>
+    </element>
+</database>

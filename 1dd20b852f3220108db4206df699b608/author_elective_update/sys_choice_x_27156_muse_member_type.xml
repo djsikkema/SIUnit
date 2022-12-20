@@ -6,15 +6,11 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-04-10 15:44:59</sys_created_on>
-            <sys_id>ac65e1f72f5320108db4206df699b6d2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
             <sys_name>type</sys_name>
             <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
             <sys_policy/>
             <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
             <sys_update_name>sys_choice_x_27156_muse_member_type</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-04-10 15:44:59</sys_updated_on>
         </sys_choice_set>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -25,14 +21,11 @@
             <language>en</language>
             <name>x_27156_muse_member</name>
             <sequence/>
+            <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-04-10 15:44:59</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>5a55a5772f5320108db4206df699b64f</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-04-10 15:45:02</sys_updated_on>
             <value>basic</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -44,14 +37,11 @@
             <language>en</language>
             <name>x_27156_muse_member</name>
             <sequence/>
+            <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-04-10 15:45:09</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>2c6561f72f5320108db4206df699b69e</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-04-10 15:45:14</sys_updated_on>
             <value>extended</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -63,14 +53,11 @@
             <language>en</language>
             <name>x_27156_muse_member</name>
             <sequence/>
+            <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-04-10 15:45:21</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7e65e1f72f5320108db4206df699b61c</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-04-10 15:45:26</sys_updated_on>
             <value>patron</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -82,14 +69,11 @@
             <language>en</language>
             <name>x_27156_muse_member</name>
             <sequence/>
+            <synonyms/>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-04-10 15:45:34</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8e7525f72f5320108db4206df699b6bf</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-04-10 15:45:37</sys_updated_on>
             <value>sponsor</value>
         </sys_choice>
     </sys_choice>

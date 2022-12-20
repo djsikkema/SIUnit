@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c186bfc02f0320108db4206df699b6bb" label="Item" max_length="40" name="x_27156_muse_item" type="collection">
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element label="Label" max_length="8000" name="label" type="html"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element label="Museum" max_length="32" name="museum" reference="x_27156_muse_museum" type="reference"/>
+        <element display="true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element label="On display?" max_length="40" name="on_display" type="boolean"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <index name="index">
+            <element name="location"/>
+        </index>
+        <index name="index2">
+            <element name="museum"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
     <sys_script_fix action="INSERT_OR_UPDATE">
-        <active>true</active>
         <before>false</before>
         <description/>
-        <flush_cache>false</flush_cache>
         <name>UserTest</name>
         <record_for_rollback>false</record_for_rollback>
-        <run_once>true</run_once>
         <script><![CDATA[/*
 var user_gr = new GlideRecord('sys_user');
 user_gr.first_name = 'Insert';
@@ -25,14 +22,11 @@ while (user_gr._next()) {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-05-14 03:59:32</sys_created_on>
         <sys_id>9ef94e6a87c430105553b8c6cebb3514</sys_id>
-        <sys_mod_count>32</sys_mod_count>
         <sys_name>UserTest</sys_name>
         <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
         <sys_policy/>
         <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
         <sys_update_name>sys_script_fix_9ef94e6a87c430105553b8c6cebb3514</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-05-16 01:10:21</sys_updated_on>
         <unloadable>false</unloadable>
     </sys_script_fix>
 </record_update>

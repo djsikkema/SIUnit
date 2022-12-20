@@ -10,7 +10,7 @@
         <script><![CDATA[var Member = Class.create();
 Member.prototype = {
     initialize: function(gr) {
-		this._log = new global.GSLog('x_27156_muse.member.loglevel', 'Member');
+		this._log = new global.GSLog('x_27156_muse.member.logging.verbosity', 'Member');
         this._gr = gr;
     },
 
@@ -33,13 +33,10 @@ Member.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-05-05 12:12:39</sys_created_on>
         <sys_id>4934e1fb877b20105553b8c6cebb35bd</sys_id>
-        <sys_mod_count>11</sys_mod_count>
         <sys_name>Member</sys_name>
         <sys_package display_value="Muse" source="x_27156_muse">1dd20b852f3220108db4206df699b608</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Muse">1dd20b852f3220108db4206df699b608</sys_scope>
         <sys_update_name>sys_script_include_4934e1fb877b20105553b8c6cebb35bd</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-05-17 22:27:36</sys_updated_on>
     </sys_script_include>
 </record_update>

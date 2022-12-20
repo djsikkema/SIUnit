@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6d0d6b242f9720108db4206df699b67f" label="Sponsorship" max_length="40" name="x_27156_muse_sponsorship" type="collection">
+        <element attributes="encode_utf8=false" label="Item" max_length="32" name="item" reference="x_27156_muse_item" type="reference"/>
+        <element attributes="encode_utf8=false" label="Member" max_length="32" name="member" reference="x_27156_muse_member" type="reference"/>
+        <index name="index">
+            <element name="item"/>
+        </index>
+        <index name="index2">
+            <element name="member"/>
+        </index>
+    </element>
+</database>
